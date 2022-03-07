@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML/AI
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me twthms23@gmail.com
 
 <!---
 nuanceNG/nuanceNG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
